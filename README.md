@@ -1,0 +1,2 @@
+# formatDecimal
+端数を四捨五入して、指定された小数点以下桁数に数値を整形するJavaScript関数
