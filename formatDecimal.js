@@ -5,6 +5,12 @@
  */
 
 /**
+ *	@file		formatDecimal.js
+ *	@brief		端数を四捨五入して、指定された小数点以下桁数に数値を整形する JavaScript 関数
+ *	@version	1.0.1
+ */
+
+/**
  *	端数を四捨五入して、指定された小数点以下桁数に数値を整形する
  *	@param	value			整形対象の数値
  *	@param	underPoint		小数第何位までに整形するか (0以上の数値を指定すること) (省略時: 0)
