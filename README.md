@@ -38,9 +38,9 @@ However, since this function internally uses Math.round(), it is affected by the
 <BR>
 You can use it with writing a link to the formatDecimal.js, or copy-pasting the source of the formatDecimal() to your source file.
 
-## ライセンス - Licence
+## ライセンス - License
 
-[MIT](https://github.com/Kimitsuna-Goblin/extClark/blob/master/LICENSE)
+[MIT](https://github.com/Kimitsuna-Goblin/formatDecimal/blob/master/LICENSE)
 
 ## 著作者 - Author
 
